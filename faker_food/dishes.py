@@ -6,7 +6,7 @@ dishes = [
     "Barbecue Ribs",
     "Bruschette with Tomato",
     "Caesar Salad",
-    "Califlower penne",
+    "Cauliflower penne",
     "California maki",
     "Caprese Salad",
     "Cheeseburger",
